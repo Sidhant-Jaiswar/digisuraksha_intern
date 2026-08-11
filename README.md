@@ -1,5 +1,3 @@
 # digisuraksha_intern
- hecker hai bhai hecker
- <br>
-hhh...  panga lega haa
-hacker name --> sid
+ trying to improve <br>
+ <h3>Learning Generative AI</h3>
